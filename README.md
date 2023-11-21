@@ -1,2 +1,5 @@
 # hello-world
-First repository created for examples and tests
+
+Hello,
+
+My name is Jacob and I am studying computer science
